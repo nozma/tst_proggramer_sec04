@@ -1,7 +1,7 @@
 ---
 title: "第4章 関数"
 author: '@nozma'
-date: "2018/4/12"
+date: "2018/5/14"
 output:
   revealjs::revealjs_presentation:
     pandoc_args: [
